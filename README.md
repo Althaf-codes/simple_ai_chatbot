@@ -1,16 +1,33 @@
-# chatgpt_app
+# Simple AI Chatbot using OpenAI
 
-A new Flutter project.
+## Description
+The Simple AI Chatbot project utilizes OpenAI's powerful language models to create a chatbot interface. The frontend is built with Flutter, allowing users to interact with the chatbot seamlessly. The backend connects to OpenAI's API via the `chat_gpt_sdk` plugin to generate responses based on user input.
 
-## Getting Started
+## Features
+- Chat with an AI-powered chatbot.
+- Seamless integration with OpenAI's language models.
+- Real-time responses based on user input.
+- Clean and user-friendly Flutter UI.
 
-This project is a starting point for a Flutter application.
+## Technologies Used
+- Flutter
+- Dart
+- chat_gpt_sdk
+- OpenAI API
 
-A few resources to get you started if this is your first Flutter project:
+## Installation Instructions
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. **Clone the repository**:
+   ```sh
+   git clone https://github.com/yourusername/simple-ai-chatbot.git
+   cd simple-ai-chatbot
+   
+2. Install Flutter dependencies:
+   ```sh
+   flutter pub get
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. Run the app:
+   flutter run
+
+## Created Date
+This project was created on January 16, 2023.
