@@ -19,7 +19,7 @@ The Simple AI Chatbot project utilizes OpenAI's powerful language models to crea
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/simple-ai-chatbot.git
+   git clone https://github.com/Althaf-codes/simple-ai-chatbot.git
    cd simple-ai-chatbot
    
 2. Install Flutter dependencies:
